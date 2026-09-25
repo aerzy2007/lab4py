@@ -1,0 +1,7 @@
+Код     Мова           Переклад
+uk      Ukrainian      Добрий день. Як справи?
+en      English        Good morning. &#10;How are things?
+pl      Polish         Dzień dobry. Jak się masz?
+de      German         Hallo. Wie geht es dir?
+fr      French         Bonjour. Comment allez-vous ?
+es      Spanish        Hola. ¿Cómo estás?
